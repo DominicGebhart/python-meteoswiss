@@ -1,0 +1,16 @@
+{
+  "name": "meteoswiss",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Asynchronous Python client for Meteo Swiss weather data.",
+  "scripts": {
+    "pyright": "pyright",
+    "prettier": "prettier --write **/*.{json,js,md,yml,yaml} *.{json,js,md,yml,yaml}"
+  },
+  "author": "Dominic Gebhart <dominic@gebi.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "pyright": "^1.1.247"
+  }
+}
